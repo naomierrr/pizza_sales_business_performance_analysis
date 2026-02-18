@@ -1,5 +1,3 @@
-# pizza_sales_business_performance_analysis
-
 # 🍕 Pizza Sales Business Performance Analysis
 
 <div align="center">
